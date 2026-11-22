@@ -1,0 +1,6 @@
+name: hermes-active-sessions
+version: 0.1.0
+description: List active Hermes sessions for the selected profile with runtime and busy-time metadata.
+author: Local Hermes customization
+provides_commands:
+  - sessions-active
